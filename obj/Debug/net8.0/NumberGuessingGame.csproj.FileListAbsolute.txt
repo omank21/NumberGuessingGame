@@ -1,0 +1,14 @@
+/Users/omankhan/Downloads/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame
+/Users/omankhan/Downloads/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.deps.json
+/Users/omankhan/Downloads/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.runtimeconfig.json
+/Users/omankhan/Downloads/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.dll
+/Users/omankhan/Downloads/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.pdb
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.AssemblyInfoInputs.cache
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.AssemblyInfo.cs
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.dll
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/refint/NumberGuessingGame.dll
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.pdb
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.genruntimeconfig.cache
+/Users/omankhan/Downloads/NumberGuessingGame/obj/Debug/net8.0/ref/NumberGuessingGame.dll
